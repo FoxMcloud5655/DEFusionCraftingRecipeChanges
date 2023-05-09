@@ -1,0 +1,16 @@
+[
+{
+  "modid": "defusioncraftingrecipechanges",
+  "name": "DE Fusion Crafting Recipe Changes",
+  "description": "This mod changes recipes found in Draconic Evoution's Fusion Crafting that cannot normally be changed via the JSON file.",
+  "version": "${version}",
+  "mcversion": "${mc_version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FoxMcloud5655","Ryzen93900X"],
+  "credits": "brandon3055 - Draconic Evolution",
+  "logoFile": "banner.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
